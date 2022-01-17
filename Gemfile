@@ -9,4 +9,8 @@ group :test do
   gem 'capybara'
   gem 'simplecov', require: false
   gem 'simplecov-console', require: false
+  gem 'puma'
+  gem 'thin'
+  gem 'falcon'
+  gem 'webrick'
 end
