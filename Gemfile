@@ -13,4 +13,5 @@ group :test do
   gem 'thin'
   gem 'falcon'
   gem 'webrick'
+  gem 'pg'
 end

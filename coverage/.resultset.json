@@ -8,8 +8,8 @@
           1,
           null,
           1,
-          null,
-          null,
+          1,
+          0,
           null,
           null,
           1,
@@ -31,6 +31,14 @@
         "lines": [
           1,
           null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null,
           null,
           null,
@@ -38,11 +46,25 @@
           null,
           null,
           1,
+          2,
+          2,
+          8,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/mbodendo/projects/Bookmark-Manager/spec/bookmark_spec.rb": {
+        "lines": [
+          null,
           null,
           1,
+          1,
+          1,
           null,
-          null,
-          null,
+          1,
+          1,
+          1,
           null,
           null
         ]
@@ -65,6 +87,6 @@
         ]
       }
     },
-    "timestamp": 1642515164
+    "timestamp": 1642521232
   }
 }
