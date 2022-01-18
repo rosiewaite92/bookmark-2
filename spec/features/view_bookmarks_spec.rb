@@ -28,6 +28,15 @@ end
 
 # <ul>
 # <% @bookmarks.each do |x| %>
-# <li><a href=<%=  "x"  %>></a></li>
+# <li><a href="<%=  x  %>">Link</a></li>
 # <% end %>
 # </ul>
+
+
+# <ul>
+#   <% @bookmarks.each do |bookmark| %>
+#     <li><%= bookmark %></li>
+#   <% end %>
+# </ul>
+
+# <a href=“https://google.com”>Link Text</a>
