@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/mbodendo/projects/Bookmark-Manager/app.rb": {
+      "/Users/rosie.waite/Desktop/projects/bookmarks_2/Bookmark-Manager/app.rb": {
         "lines": [
           1,
           1,
@@ -17,9 +17,16 @@
           null,
           null,
           1,
+          3,
+          3,
+          null,
           null,
           1,
+          1,
+          1,
           null,
+          null,
+          1,
           1,
           null,
           null,
@@ -28,27 +35,37 @@
           null
         ]
       },
-      "/Users/mbodendo/projects/Bookmark-Manager/lib/bookmarks.rb": {
+      "/Users/rosie.waite/Desktop/projects/bookmarks_2/Bookmark-Manager/lib/bookmarks.rb": {
         "lines": [
           1,
           null,
           1,
           null,
           1,
-          2,
-          2,
+          5,
+          5,
           null,
           0,
           null,
           null,
-          2,
-          8,
+          5,
+          16,
+          null,
+          null,
+          1,
+          5,
+          5,
+          null,
+          0,
+          null,
+          null,
+          5,
           null,
           null,
           null
         ]
       },
-      "/Users/mbodendo/projects/Bookmark-Manager/spec/bookmark_spec.rb": {
+      "/Users/rosie.waite/Desktop/projects/bookmarks_2/Bookmark-Manager/spec/bookmark_spec.rb": {
         "lines": [
           null,
           null,
@@ -66,10 +83,30 @@
           1,
           null,
           null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
           null
         ]
       },
-      "/Users/mbodendo/projects/Bookmark-Manager/spec/features/view_bookmarks_spec.rb": {
+      "/Users/rosie.waite/Desktop/projects/bookmarks_2/Bookmark-Manager/spec/features/creating_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/rosie.waite/Desktop/projects/bookmarks_2/Bookmark-Manager/spec/features/view_bookmarks_spec.rb": {
         "lines": [
           1,
           null,
@@ -100,12 +137,22 @@
           null,
           1,
           1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
           1,
           null,
           null
         ]
       }
     },
-    "timestamp": 1642596158
+    "timestamp": 1642608655
   }
 }
